@@ -1,0 +1,1 @@
+((CniGalaxeaF_gfas1.m1.17662.m1:0.564699,CniPoritesL_plut2.m8.19.m1:0.667122)n1:0.0469973,(CniMergedstylophoraP_rna18148:0.59083,(CniOpatagonica_TRINITY_DN257450_c1_g2_i4.p1:0.238313,(CniGoniastreaA_gasp1.m3.18435.m1:0.0623476,CniOrbicellaF_rna12302:0.0434665)n4:0.280677)n3:0.230562)n2:0.0469973)n0;

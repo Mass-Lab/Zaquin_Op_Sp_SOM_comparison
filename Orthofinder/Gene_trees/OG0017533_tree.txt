@@ -1,0 +1,1 @@
+(CniMergedstylophoraP_rna2474:0.671284,(CniOrbicellaF_rna35015:0.281295,(((CniFungiaSp_ffun1.m4.27563.m1:5e-09,CniFungiaSp_ffun1.m4.27573.m1:0.0636717)n4:0.058318,(CniFungiaSp_ffun1.m4.27567.m1:0.020236,CniFungiaSp_ffun1.m4.27575.m1:0.0317394)n5:0.350431)n3:0.233251,CniOpatagonica_TRINITY_DN246241_c3_g1_i8.p1:0.409444)n2:0.154449)n1:0.671284)n0;
