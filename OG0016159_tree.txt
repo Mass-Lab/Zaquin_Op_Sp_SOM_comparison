@@ -1,0 +1,1 @@
+(((CniGoniastreaA_gasp1.m3.24098.m1:0.0766559,CniOrbicellaF_rna3152:0.105536)n2:0.182426,(CniFungiaSp_ffun1.m4.6829.m1:0.250898,CniMergedstylophoraP_Spis9146:0.521934)n3:0.0919363)n1:0.13901,(CniGalaxeaF_gfas1.m1.1078.m1:0.367432,(CniMontiporaC_g2149.t1:0.26407,(CniAcroporaD_rna290:0.0265134,CniAcroporaM_amil.1.2.671.m1:0.0239117)n6:0.430296)n5:0.334576)n4:0.13901)n0;
